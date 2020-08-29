@@ -1,0 +1,28 @@
+{
+  "name": "cfsf",
+  "version": "1.0.0",
+  "description": "ColdFusion CFScript formatter",
+  "main": "index.js",
+  "scripts": {
+    "fix": "eslint --fix . && echo 'Fix complete!'",
+    "lint": "eslint . && echo 'Lint complete!'",
+    "unit": "jest --coverage"
+  },
+  "keywords": [
+    "ColdFsuion",
+    "CFScript"
+  ],
+  "author": "@l1oret",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "babel-jest": "^26.3.0",
+    "eslint": "^7.7.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "jest": "^26.4.2",
+    "prettier": "^2.1.1"
+  }
+}
