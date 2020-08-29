@@ -1,2 +1,0 @@
-{"/www/repositories/base/src/sum.js": {"path":"/www/repositories/base/src/sum.js","statementMap":{"0":{"start":{"line":1,"column":12},"end":{"line":1,"column":27}},"1":{"start":{"line":1,"column":22},"end":{"line":1,"column":27}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":1,"column":12},"end":{"line":1,"column":13}},"loc":{"start":{"line":1,"column":22},"end":{"line":1,"column":27}},"line":1}},"branchMap":{},"s":{"0":1,"1":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"ae87782b3805eee246cfccc12d8e15997815cc9e"}
-}
